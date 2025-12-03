@@ -44,7 +44,7 @@ Como trabalhamos com diversos itens de papelaria personalizada, este software fo
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Bakaloneking/Atomacao_Para_ImprimirAgendas.git](git@github.com:Bakaloneking/Atomacao_Para_ImprimirAgendas.git)
+   git clone https://github.com/Bakaloneking/Atomacao_Para_ImprimirAgendas.git
 
 2. Instale as dependências:
    ```bash
