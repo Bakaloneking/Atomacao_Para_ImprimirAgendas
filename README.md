@@ -4,7 +4,6 @@
 
 ## 📖 Sobre o Projeto
 
-```markdown
 ![Interface do Programa](screenshots/Tela_da_Aplicacao.png)
 
 Este projeto nasceu de uma necessidade real dentro de casa. Observei minha esposa gastando horas valiosas do seu trabalho em uma tarefa exaustiva, manual e propensa a erros: o gerenciamento de impressões para encadernação de agendas.
