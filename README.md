@@ -4,13 +4,13 @@
 
 ## 📖 Sobre o Projeto
 
-![Interface do Programa](screenshots/Tela_da_Aplicacao.png)
-
 Este projeto nasceu de uma necessidade real dentro de casa. Observei minha esposa gastando horas valiosas do seu trabalho em uma tarefa exaustiva, manual e propensa a erros: o gerenciamento de impressões para encadernação de agendas.
 
 Ela precisava calcular manualmente a quantidade de folhas, dividir em lotes (miolos), controlar a impressão frente e verso e configurar a impressora repetidas vezes no Adobe Acrobat.
 
 Decidi então unir a programação à rotina dela. Criei esta aplicação para **automatizar esse trabalho chato e repetitivo**, garantindo precisão nos cálculos de páginas e liberando o tempo dela para focar na criação e venda dos produtos, enquanto o "robô" cuida da parte mecânica.
+
+![Interface do Programa](screenshots/Tela_da_Aplicacao.png)
 
 ## 🚀 Funcionalidades Atuais (MVP)
 
