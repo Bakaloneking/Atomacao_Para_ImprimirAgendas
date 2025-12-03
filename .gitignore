@@ -1,0 +1,17 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# PyCharm e VS Code
+.idea/
+.vscode/
+
+# Arquivos temporários e compilados
+__pycache__/
+*.pyc
+
+# PyInstaller (Geradores de exe)
+build/
+dist/
+*.spec
