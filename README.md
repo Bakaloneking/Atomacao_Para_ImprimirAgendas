@@ -4,7 +4,7 @@
 
 ## 📖 Sobre o Projeto
 
-![Interface do Programa](screenshots/Tela_da_Aplicacao.png
+![Interface do Programa](screenshots/Tela_da_Aplicacao.png)
 
 Este projeto nasceu de uma necessidade real dentro de casa. Observei minha esposa gastando horas valiosas do seu trabalho em uma tarefa exaustiva, manual e propensa a erros: o gerenciamento de impressões para encadernação de agendas.
 
@@ -44,7 +44,7 @@ Como trabalhamos com diversos itens de papelaria personalizada, este software fo
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+   git clone [https://github.com/Bakaloneking/Atomacao_Para_ImprimirAgendas.git](git@github.com:Bakaloneking/Atomacao_Para_ImprimirAgendas.git)
 
 2. Instale as dependências:
    ```bash
