@@ -4,6 +4,8 @@
 
 ## 📖 Sobre o Projeto
 
+![Interface do Programa](screenshots/Tela_da_Aplicacao.png
+
 Este projeto nasceu de uma necessidade real dentro de casa. Observei minha esposa gastando horas valiosas do seu trabalho em uma tarefa exaustiva, manual e propensa a erros: o gerenciamento de impressões para encadernação de agendas.
 
 Ela precisava calcular manualmente a quantidade de folhas, dividir em lotes (miolos), controlar a impressão frente e verso e configurar a impressora repetidas vezes no Adobe Acrobat.
@@ -43,3 +45,13 @@ Como trabalhamos com diversos itens de papelaria personalizada, este software fo
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+
+3. Certifique-se de ter a imagem ancora_paginas.png na raiz do projeto (um recorte do rótulo "Páginas" da janela de impressão do Adobe).
+
+4. Execute o script:
+   ```bash
+    python Imprimir_automa.py
